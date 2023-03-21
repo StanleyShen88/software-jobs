@@ -30,6 +30,9 @@ Stan's software jobs board
 因為網站也是屎蛋三月底才自己摸索搞出來的(我不會寫程式QQ)  
 職缺會陸續上新，見諒喔~~  
 
+- 請善用 Labels 功能，選取你想要的關鍵字 Label 搜尋喔  
+- 請善用每個徵才文下方的`你可能還想看... printf()`找尋相似的職缺喔
+
 有任何問題都歡迎來信 stanley.shen@talentplusco.com  
 或加LINE ID: stanleyqq5487  
 也歡迎在留言區留言!
