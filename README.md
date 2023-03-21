@@ -11,6 +11,7 @@ Stan's software jobs board
 + 薪資範圍
 + 福利待遇
 + 職缺亮點
++ 解決痛點(讓找工作的朋友們知道這個工作的好!)
 
 -----
 
@@ -25,6 +26,10 @@ Stan's software jobs board
 
 ### 求職者
 
-歡迎進入 [這裡](https://github.com/StanleyShen88/software-jobs/issues) 找尋你心儀的工作機會! 
-有任何問題都歡迎來信 stanley.shen@talentplusco.com
+歡迎進入 [這裡](https://github.com/StanleyShen88/software-jobs/issues) 找尋你心儀的工作機會!   
+因為網站也是屎蛋三月底才自己摸索搞出來的(我不會寫程式QQ)  
+職缺會陸續上新，見諒喔~~  
 
+有任何問題都歡迎來信 stanley.shen@talentplusco.com  
+或加LINE ID: stanleyqq5487  
+也歡迎在留言區留言!
