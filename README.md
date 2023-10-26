@@ -1,7 +1,7 @@
-Stan's software jobs board
+Stan's jobs board
 ====
 
-歡迎來到屎蛋軟體徵才版
+歡迎來到屎蛋徵才版
 
 請按 [這裡](https://github.com/StanleyShen88/software-jobs/issues) 來進入徵才區
 
